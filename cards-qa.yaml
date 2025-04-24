@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+cards:
+  message: "Welcome to Cloud Bank cards related QA APIs"
+  contactDetails:
+    name: "Cloud Bank"
+    email: "cloudbank-qa@example.com"
+  onCallSupport:
+    - "1234567890"
+    - "9876543210"

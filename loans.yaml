@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+loans:
+  message: "Welcome to Cloud Bank loans related local APIs"
+  contactDetails:
+    name: "Cloud Bank"
+    email: "cloudbank@example.com"
+  onCallSupport:
+    - "1234567890"
+    - "9876543210"
