@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 loans:
-  message: "Hey, Welcome to Cloud Bank loans related QA APIs"
+  message: "Welcome to Cloud Bank loans related QA APIs"
   contactDetails:
     name: "Cloud Bank"
     email: "cloudbank-qa@example.com"
