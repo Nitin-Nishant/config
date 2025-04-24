@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Cloud Bank accounts related prod APIs"
   contactDetails:
     name: "Cloud Bank"
-    email: "cloudbank-prod@example.com"
+    email: "{cipher}a1ad01b3940ea80c06c1f2f0d63fc63e8a6f0f2da62ec0007c65dbaa6280315f9e56e50dfb360aa1d0064006dad13bc0"
   onCallSupport:
     - "1234567890"
     - "9876543210"
